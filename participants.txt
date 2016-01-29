@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+Marketing team 
+-Collins 
+-Linda 
+-Patricia
+-Morgan
+-Amanda
+=======
+
+
+
+
+
+Finance team 
+-Charles 
+-Lisa 
+-John 
+>>>>>>> master
